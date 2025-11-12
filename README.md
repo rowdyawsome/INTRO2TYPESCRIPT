@@ -8,17 +8,17 @@ Instructions
 
 Follow the steps below carefully.
 
-1. Fork this Repository
+## 1. Fork this Repository
 
 Click on the “Fork” button to create your own copy of the repository.
 
-2. Clone Your Fork
+## 2. Clone Your Fork
 
 Open your terminal and clone your forked repository:
 
 `git clone <your-forked-repo-url>`
 
-3. Create Your Own Branch
+## 3. Create Your Own Branch
 
 Create and switch to a new branch using the following naming convention:
 
@@ -29,13 +29,13 @@ Example:
 
 `git checkout -b Faith-TS-class-activity`
 
-4. Install Dependencies
+## 4. Install Dependencies
 
 Run the following command to install all required packages:
 
 `npm install`
 
-5. Complete the Exercises
+## 5. Complete the Exercises
 
 Open the file:
 
@@ -62,7 +62,7 @@ Tip: Save your TypeScript version in a new file named:
 
 `src/activity.ts`
 
-6. Run Your Code
+## 6. Run Your Code
 
 After completing your TypeScript conversions, you can run or compile it using either of the following commands.
 
@@ -75,7 +75,7 @@ Or compile to JavaScript:
 
 `npx tsc`
 
-7. Commit and Push Your Work
+## 7. Commit and Push Your Work
 
 When you are done, commit your changes with the following message exactly as shown:
 
@@ -85,7 +85,7 @@ When you are done, commit your changes with the following message exactly as sho
 
 `git push origin <yourname>-TS-class-activity`
 
-8. Submit
+## 8. Submit
 
 After pushing your changes:
 
@@ -95,7 +95,8 @@ Confirm that your branch and commit are visible.
 
 Share your branch link with your instructor for review.
 
-Checklist Before Submission
+
+## Checklist Before Submission
 
  You created and worked on your own branch.
 
