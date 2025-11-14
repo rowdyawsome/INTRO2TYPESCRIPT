@@ -6,7 +6,7 @@ Each task should be written in TypeScript (.ts) using the same structure and com
 You should write your code in each file and push your solution to your own branch when submitting.
 
 
-`
+
 ## Folder Suggestion
 Session 2/
 │
@@ -17,7 +17,7 @@ Session 2/
 ├── 5_class_car.ts
 ├── 6_mini_project_studentReport.ts
 └── bonus_transactionSystem.ts
-`
+
 ## Submission Guideline
 
 Follow the same file naming and comment format from the previous README.
